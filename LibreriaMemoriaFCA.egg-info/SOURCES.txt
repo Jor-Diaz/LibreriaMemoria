@@ -1,0 +1,9 @@
+LICENSE
+LibreriaMemoriaFCA.py
+README.md
+setup.py
+LibreriaMemoriaFCA.egg-info/PKG-INFO
+LibreriaMemoriaFCA.egg-info/SOURCES.txt
+LibreriaMemoriaFCA.egg-info/dependency_links.txt
+LibreriaMemoriaFCA.egg-info/requires.txt
+LibreriaMemoriaFCA.egg-info/top_level.txt
